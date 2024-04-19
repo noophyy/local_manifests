@@ -5,13 +5,13 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/motorola/addison" name="addison-experimentations/android_device_motorola_addison" remote="github" revision="lineage-18.1" />
+ <project path="device/realme/RMX1805" name="noophyy/device_realme_RMX1805" remote="github" revision="oss" />
 
  <!--Kernel -->
- <project path="kernel/motorola/msm8953" name="addison-experimentations/android_kernel_motorola_msm8953" remote="github" revision="lineage-18.1" />
+ <project path="kernel/realme/RMX1805" name="noophyy/mikasa_kernel_realme2_c1" remote="github" revision="light" />
  
  <!--Vendor -->
- <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-18.1" />
+ <project path="vendor/realme/RMX1805" name="noophyy/vendor_realme_RMX1805" remote="github" revision="oss" />
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
